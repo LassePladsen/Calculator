@@ -1,2 +1,2 @@
 # Calculator
-Simple gui calculator using customtkinter.
+Simple python gui calculator using customtkinter.
